@@ -4,3 +4,9 @@
 .submit-button{
     width: 50%;
 }
+.navbar-section{
+    position: sticky;
+    top: 0;
+    left: 0;
+    z-index: 999;
+}
